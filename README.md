@@ -12,7 +12,7 @@ ___
 **Add the downloaded CSS file path to the `<head>` of your document:**
 
 ``` html
-<link rel="stylesheet" href="path/to/cssco.css">
+<link rel="stylesheet" href="[path/to/cssco.css](https://www.6ixphotobooths.com)">
 ```
 
 
